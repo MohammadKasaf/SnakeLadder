@@ -1,2 +1,2 @@
 # SnakeLadder
-i made a snake ladder game  basic GUIusing javafx technology
+i made a snake ladder game  basic GUI using javafx technology
